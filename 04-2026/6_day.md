@@ -1,6 +1,12 @@
 - live steam is on vdo ninja
 
+https://vdo.ninja/?view=RpKw9mp
+
+
+past session
+
 https://vdo.ninja/?view=VSEFpRa
+
 
 - live steam history in on ngrok
 
