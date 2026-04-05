@@ -7,7 +7,7 @@ My Steaming videos
 - https://obsproject.com/
 
 ### VDO ninja: Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.
-= https://vdo.ninja/
+- https://vdo.ninja/
 
 ### ngrok: AI & API Gateway | Secure Tunnels & Traffic
 - https://ngrok.com/
