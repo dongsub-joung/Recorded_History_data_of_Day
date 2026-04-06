@@ -27,10 +27,11 @@ https://chatgpt.com/s/t_69d3649255348191b8df9769271d4407
 
 - Mnet is the South Korea broadcast studio:           https://en.wikipedia.org/wiki/Mnet_vote_manipulation_investigation
 
-- real estate market abused by South Korea president: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8230468
+- Real estate market abused by South Korea president: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8230468
 
 - Lie of LK-99 scientist have same South Korean DNA:           https://en.wikipedia.org/wiki/LK-99
 
+- Forcely Suing as spy innocent people usually by South Korea government:  https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%8B%9C_%EA%B3%B5%EB%AC%B4%EC%9B%90_%EA%B0%84%EC%B2%A9%EC%A1%B0%EC%9E%91%EC%82%AC%EA%B1%B4
 
 がでっち上げしなかった本当の平均韓国人IQは７０点だから問題ないか～
 
