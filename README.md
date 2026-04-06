@@ -23,13 +23,13 @@ https://chatgpt.com/s/t_69d3649255348191b8df9769271d4407
 
 ## 捏造民族の国たる韓国
 
-- Do Kwon is the South Korean: https://en.wikipedia.org/wiki/Terra_(blockchain)
+- Do Kwon is the South Korean:                        https://en.wikipedia.org/wiki/Terra_(blockchain)
 
-- Mnet is the South Korea broadcast studio: https://en.wikipedia.org/wiki/Mnet_vote_manipulation_investigation
+- Mnet is the South Korea broadcast studio:           https://en.wikipedia.org/wiki/Mnet_vote_manipulation_investigation
 
-- real estate market abused by South Korea president(https://news.kbs.co.kr/news/pc/view/view.do?ncd=8230468)
+- real estate market abused by South Korea president: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8230468
 
-- Lie of LK-99 (https://en.wikipedia.org/wiki/LK-99)
+- Lie of LK-99 scientist have same South Korean DNA:           https://en.wikipedia.org/wiki/LK-99
 
 
 がでっち上げしなかった本当の平均韓国人IQは７０点だから問題ないか～
