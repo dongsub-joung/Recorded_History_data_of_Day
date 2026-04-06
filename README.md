@@ -4,6 +4,9 @@ My Steaming videos
 # My official IQ score is 73 in South Korea 
 ![iq](https://github.com/user-attachments/assets/eee4af1c-d24b-4ea9-a7ce-6a33a4b12208)
 
+![disable](https://github.com/user-attachments/assets/c3f9798f-6eae-434f-a1aa-1eb32fb69bcc)
+
+
 ## gemini
 
 <img width="1865" height="976" alt="2" src="https://github.com/user-attachments/assets/b4dccc7c-ec2e-4a2c-8776-cd52b4083536" />
