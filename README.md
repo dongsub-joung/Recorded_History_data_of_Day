@@ -28,6 +28,34 @@ https://gall.dcinside.com/mgallery/board/view?id=manariafriends&no=681650
 
 https://chatgpt.com/s/t_69d3915e82cc8191bdc857432a686729
 
+### I'm a type B invoker XD
+
+```
+Type B — “Pattern-based Invoker” (your likely type)
+uses:
+
+a limited set of combos
+
+pre-learned sequences
+
+e.g.:
+
+Tornado → EMP → Chaos Meteor (standard)
+
+Cold Snap → Forge Spirit
+
+👉 This reduces:
+
+working memory load
+
+decision complexity
+```
+
+https://gall.dcinside.com/mgallery/board/view?id=dota&no=68974
+
+> reacte dthis my invoker play vidoe
+
+https://chatgpt.com/s/t_69d39c35127881919904524bee8a71fd
 
 ---   
 
