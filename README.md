@@ -19,6 +19,8 @@ https://docs.google.com/document/d/e/2PACX-1vQ6cjbUYVCmw9cIytsAWGg6sFi0qDIDSCW2X
 
 > As a result: https://chatgpt.com/s/t_69d3b1ba28348191ac495878fdf86f50
 
+<img width="522" height="780" alt="2" src="https://github.com/user-attachments/assets/204b1d63-2633-4a57-9e2d-33da2b400d6e" />
+
 https://chatgpt.com/s/t_69d3649255348191b8df9769271d4407
 https://chatgpt.com/s/t_69d38c8c56e081918ed57e47bff4bfe7
 
