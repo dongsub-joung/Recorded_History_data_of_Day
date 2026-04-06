@@ -32,7 +32,8 @@ same win conditions
 
 After ~10–15 games:
 ```
-my first 15 games on 15 win row
+
+#### my first 15 games on 15 win row
 
 <img width="1462" height="726" alt="sb" src="https://github.com/user-attachments/assets/8e50ffe7-49ee-426d-b03f-abe637d9f1bb" />
 
@@ -41,6 +42,10 @@ https://chatgpt.com/s/t_69d3a0d3a06481918ed8f0d3d4042506
 
 > diff class
 https://chatgpt.com/s/t_69d3a293a39c8191bfb760a0686fe8ab
+
+> About first 5 games
+https://chatgpt.com/s/t_69d3a3ff67c08191adc8a9a5cbcfac61
+https://chatgpt.com/s/t_69d3a508a4408191a72df51985038cd7
 
 ---   
 
