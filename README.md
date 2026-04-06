@@ -18,8 +18,10 @@ https://docs.google.com/document/d/e/2PACX-1vQ6cjbUYVCmw9cIytsAWGg6sFi0qDIDSCW2X
 
 https://chatgpt.com/s/t_69d3649255348191b8df9769271d4407
 
+---   
 
- 捏造民族の国たる韓国
+
+## 捏造民族の国たる韓国
 
 - Do Kwon is the South Korean: https://en.wikipedia.org/wiki/Terra_(blockchain)
 
