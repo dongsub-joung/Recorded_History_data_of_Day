@@ -19,6 +19,31 @@ https://docs.google.com/document/d/e/2PACX-1vQ6cjbUYVCmw9cIytsAWGg6sFi0qDIDSCW2X
 https://chatgpt.com/s/t_69d3649255348191b8df9769271d4407
 https://chatgpt.com/s/t_69d38c8c56e081918ed57e47bff4bfe7
 
+### Pattern formation does NOT require high IQ
+
+```
+You quickly see:
+
+same decks
+
+same key cards
+
+same win conditions
+
+After ~10–15 games:
+```
+my first 15 games on 15 win row
+
+<img width="1462" height="726" alt="sb" src="https://github.com/user-attachments/assets/8e50ffe7-49ee-426d-b03f-abe637d9f1bb" />
+
+> reacted
+https://chatgpt.com/s/t_69d3a0d3a06481918ed8f0d3d4042506
+
+> diff class
+https://chatgpt.com/s/t_69d3a293a39c8191bfb760a0686fe8ab
+
+---   
+
 
 ### AI can't understand "What is acctually important in Shadowverse: Worlds Beyond :)
 
@@ -28,7 +53,9 @@ https://gall.dcinside.com/mgallery/board/view?id=manariafriends&no=681650
 
 https://chatgpt.com/s/t_69d3915e82cc8191bdc857432a686729
 
+
 ### I'm a type B invoker XD
+
 
 ```
 Type B — “Pattern-based Invoker” (your likely type)
@@ -53,11 +80,10 @@ decision complexity
 
 https://gall.dcinside.com/mgallery/board/view?id=dota&no=68974
 
-> reacte dthis my invoker play vidoe
+> reacted my invoker play vidoe
 
 https://chatgpt.com/s/t_69d39c35127881919904524bee8a71fd
 
----   
 
 
 ## 捏造民族の国たる韓国
