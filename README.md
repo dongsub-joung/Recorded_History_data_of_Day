@@ -27,6 +27,7 @@ https://chatgpt.com/s/t_69d3649255348191b8df9769271d4407
 
 - real estate market abused by South Korea president(https://news.kbs.co.kr/news/pc/view/view.do?ncd=8230468)
 
+- Lie of LK-99 (https://en.wikipedia.org/wiki/LK-99)
 がでっち上げしなかった本当の平均韓国人IQは７０点だから問題ないか～
 
 
