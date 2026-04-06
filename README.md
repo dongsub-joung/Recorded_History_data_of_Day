@@ -21,6 +21,13 @@ https://docs.google.com/document/d/e/2PACX-1vQ6cjbUYVCmw9cIytsAWGg6sFi0qDIDSCW2X
 
 <img width="522" height="780" alt="2" src="https://github.com/user-attachments/assets/204b1d63-2633-4a57-9e2d-33da2b400d6e" />
 
+> +bookworm: https://chatgpt.com/s/t_69d3b6edcef0819197b05a9a02f75bc4
+
+<img width="761" height="704" alt="2" src="https://github.com/user-attachments/assets/52c0bfbc-0bb8-4915-844c-1ab89d669530" />
+
+
+> frist anwers
+
 https://chatgpt.com/s/t_69d3649255348191b8df9769271d4407
 https://chatgpt.com/s/t_69d38c8c56e081918ed57e47bff4bfe7
 
