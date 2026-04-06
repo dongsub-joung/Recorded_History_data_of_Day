@@ -22,10 +22,9 @@ https://chatgpt.com/s/t_69d38c8c56e081918ed57e47bff4bfe7
 
 ### AI can't understand "What is acctually important in Shadowverse: Worlds Beyond :)
 
-<iframe src="https://gall.dcinside.com/board/movie/share_movie?no=5901790"></iframe>
+https://gall.dcinside.com/mgallery/board/view?id=manariafriends&no=681650
 
-> reacted this video
-
+> reacted this my video
 
 https://chatgpt.com/s/t_69d3915e82cc8191bdc857432a686729
 
