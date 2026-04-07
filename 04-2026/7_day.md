@@ -2,11 +2,12 @@
 
 ## current live stream
 
-https://vdo.ninja/?view=EyBfbCs
+https://vdo.ninja/?view=APUQyp8
 
 ## past session
 
 https://vdo.ninja/?view=FgirfNt
+https://vdo.ninja/?view=EyBfbCs
 
 # ToffeeShare
 
