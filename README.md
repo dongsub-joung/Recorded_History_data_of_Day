@@ -114,6 +114,8 @@ https://chatgpt.com/s/t_69d39c35127881919904524bee8a71fd
 
 - Forcely Suing as spy innocent people usually by South Korea government:  https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EC%8B%9C_%EA%B3%B5%EB%AC%B4%EC%9B%90_%EA%B0%84%EC%B2%A9%EC%A1%B0%EC%9E%91%EC%82%AC%EA%B1%B4
 
+- (Coming soon) South Korea gorverment with South Korea police officer cover JoungDongSub's Data up.
+
 がでっち上げしなかった本当の平均韓国人IQは７０点だから問題ないか～
 
 ---
