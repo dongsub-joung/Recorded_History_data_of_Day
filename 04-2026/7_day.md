@@ -11,20 +11,20 @@ https://vdo.ninja/?view=EyBfbCs
 
 # ToffeeShare
 
-## https://toffeeshare.com/c/45Z9-11BSd
+## closed https://toffeeshare.com/c/45Z9-11BSd
 
 - 2026-04-07_01-58-38 /sleep
 - 2026-04-07_09-27-17.mp4 / awake
 - 2026-04-07_10-52-10 // deadlock
 - 2026-04-07_12-52-19 // visited police office
 
-## https://toffeeshare.com/c/mwCilhKRQf
+## closed https://toffeeshare.com/c/mwCilhKRQf
 
 - 2026-04-07_13-15-25
 - 2026-04-07_15-32-48
 
 
-## https://toffeeshare.com/c/oqRSdFGXQQ
+## closed: https://toffeeshare.com/c/oqRSdFGXQQ
 
 > 7z files
 
@@ -36,7 +36,7 @@ https://vdo.ninja/?view=EyBfbCs
 - 2026-04-06_20-36-51
 - 2026-04-06_23-23-41
 
-## https://toffeeshare.com/c/u1QQYIp8SW
+## closed: https://toffeeshare.com/c/u1QQYIp8SW
 
 > 7z files
 
