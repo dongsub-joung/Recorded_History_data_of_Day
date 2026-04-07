@@ -1,6 +1,7 @@
 # live steam is on vdo ninja
 
 ## current live stream
+
 https://vdo.ninja/?view=EyBfbCs
 
 ## past session
@@ -23,5 +24,18 @@ https://vdo.ninja/?view=FgirfNt
 - 2026-04-05_19-28-47.7z
 - 2026-04-05_21-37-50.7z
 - 2026-04-05_21-44-43
+
+## https://toffeeshare.com/c/Q2AiX1WcQq
+
+> 7z files
+
+- 2026-04-06_08-29-59
+- 2026-04-06_10-59-28
+- 2026-04-06_13-14-24
+- 2026-04-06_15-04-34
+- 2026-04-06_19-53-45
+- 2026-04-06_20-36-51
+- 2026-04-06_23-23-41
+
 
 # live steam history in on ngrok
