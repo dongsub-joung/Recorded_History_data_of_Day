@@ -127,5 +127,9 @@ https://chatgpt.com/s/t_69d39c35127881919904524bee8a71fd
 ### VDO ninja: Bring live video from your smartphone, remote computer, or friends directly into OBS or other studio software.
 - https://vdo.ninja/
 
+### ToffssShare: Share files directly from your device to anywhere
+
+- https://toffeeshare.com/
+
 ### ngrok: AI & API Gateway | Secure Tunnels & Traffic
 - https://ngrok.com/
