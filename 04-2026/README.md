@@ -12,7 +12,9 @@ Medical Certificate as schizophrenia, and My Engineer Information Processing "pr
 I chatted
 
 ```
-No. My opinion is "Browser tool give and giving more productivity to normal people, So That -tracking personal data- doesn't matter. Browser tool developer need money cuz A vulnerability exploit patch is not free. If people always are hacked by someone, definitly world and normal people will breakdown in real and network-world both" 
+No. My opinion is "Browser tool give and giving more productivity to normal people,
+So That -tracking personal data- doesn't matter. Browser tool developer need money cuz A vulnerability exploit patch is not free.
+If people always are hacked by someone, definitly world and normal people will breakdown in real and network-world both" 
 ```
 
 Gemini reacted 
