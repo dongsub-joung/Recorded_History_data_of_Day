@@ -1,6 +1,8 @@
 # Recorded_History_data_of_Day
 My Steaming videos
 
+- 魔法科高校の劣等生 来訪者編EDー名もない花”の解説記事: https://takeshima-japan.gitbook.io/takeshima_japan-docs/for_japanese_language/no-edmonaino
+
 # My official IQ score is 73 in South Korea 
 ![iq](https://github.com/user-attachments/assets/eee4af1c-d24b-4ea9-a7ce-6a33a4b12208)
 
