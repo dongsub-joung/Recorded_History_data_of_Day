@@ -1,6 +1,7 @@
-# 15/04/2026 sleep
+# 15/04/2026
 
-https://toffeeshare.com/c/jGUVngs8Tg
+During PM 12:30~16:15, I was investigated by South Korean plice officers at South Korea Police office.
+
 
 # 07/04/2026 ref- 2026-04-07_12-52-19(when I visited South Korea police office for almose 30min)
 
