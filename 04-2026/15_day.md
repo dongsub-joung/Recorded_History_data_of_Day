@@ -1,16 +1,15 @@
 # live steam is on vdo ninja
 
 ## current live stream
-https://vdo.ninja/?view=VguNrq9
+
+https://vdo.ninja/?view=iLNEicr
 
 ## past session
 
+https://vdo.ninja/?view=VguNrq9
 
 
 # ToffeeShare: Sleep evidence video
-
-
-
 
 
 > 7z files
@@ -20,6 +19,8 @@ https://vdo.ninja/?view=VguNrq9
 
 SHA256 hash of .\2026-04-15_04-41-29.7z:                                                                                e0a52bfaa0045639dc9b3c0a79e6a031a5e89f0c3fa4c558af4a8ad12bc8b51e
 
+
+# wormhole.app: backup
 
 ## 1~2: https://wormhole.app/eErboY#0GJ-X6e-yc3wGq-Q7EVuaQ
 ## 3~4: https://wormhole.app/kzZ0O4#iwQfiupkUxpgYihINkUFQQ
