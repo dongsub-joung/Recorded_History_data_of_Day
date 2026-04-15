@@ -2,12 +2,13 @@
 
 ## current live stream
 
-https://vdo.ninja/?view=iLNEicr
+https://vdo.ninja/?view=2eqk8HU
 
 ## past session
 
 https://vdo.ninja/?view=VguNrq9
 
+https://vdo.ninja/?view=iLNEicr
 
 # ToffeeShare: Sleep evidence video
 
@@ -15,7 +16,10 @@ https://vdo.ninja/?view=VguNrq9
 > 7z files
 > SHA256 hash check sum is original file's.
 
-## https://toffeeshare.com/c/PqWxEwaTTp
+
+
+
+## https://toffeeshare.com/c/qXZc5tEHRW
 
 SHA256 hash of .\2026-04-15_04-41-29.7z:                                                                                e0a52bfaa0045639dc9b3c0a79e6a031a5e89f0c3fa4c558af4a8ad12bc8b51e
 
