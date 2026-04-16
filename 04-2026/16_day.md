@@ -2,10 +2,11 @@
 
 ## current live stream
 
-https://vdo.ninja/?view=2eqk8HU
+https://vdo.ninja/?view=hfEhfLZ
 
 ## past session
 
+https://vdo.ninja/?view=2eqk8HU
 
 # ToffeeShare: Sleep evidence video
 
