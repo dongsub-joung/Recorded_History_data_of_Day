@@ -1,7 +1,12 @@
 # DotA2 record
 
 
+## 18/04/2026
 
+- https://www.dotabuff.com/matches/8775227283?page=1#comment-1417942
+- https://www.dotabuff.com/matches/8775294252?page=1#comment-1417943
+
+---
 
 ## 17/04/2026
 
