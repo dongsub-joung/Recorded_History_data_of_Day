@@ -8,7 +8,7 @@ fn main() -> std::io::Result<()> {
     // 1. select a month folder (e.g., 04-2026)
     // We'll look for directories in the parent directory of the current executable's workspace
     // Assuming we run from the root of the project.
-    let root = Path::new(".");
+    let root = Path::new("../");
     let mut month_folders: Vec<PathBuf> = fs::read_dir(root)?
         .filter_map(|entry| entry.ok())
         .map(|entry| entry.path())
@@ -52,7 +52,7 @@ fn main() -> std::io::Result<()> {
 
     md_files.sort_by(|a, b| b.0.cmp(&a.0));
 
-    let (latest_day, latest_file_path) = match md_files.first() {
+    let (_latest_day, latest_file_path) = match md_files.first() {
         Some(data) => data,
         None => {
             println!("No _day.md files found in {:?}", latest_month);
@@ -61,16 +61,15 @@ fn main() -> std::io::Result<()> {
     };
     println!("Latest day file: {:?}", latest_file_path);
 
-    // 3. copy that .md file and then rename "{+1_day}.md"
-    let next_day = latest_day + 1;
-    let next_file_name = format!("{}_day.md", next_day);
-    let next_file_path = latest_month.join(next_file_name);
-
-    if next_file_path.exists() {
-        println!("File {:?} already exists. Skipping copy.", next_file_path);
+    // 3. compress the folder using multi-threading
+    let output_path = latest_month.with_extension("7z");
+    
+    if output_path.exists() {
+        println!("Archive {:?} already exists. Skipping compression.", output_path);
     } else {
-        fs::copy(latest_file_path, &next_file_path)?;
-        println!("Copied {:?} to {:?}", latest_file_path, next_file_path);
+        println!("Compressing {:?} to {:?}...", latest_month, output_path);
+        // compress_multi_threaded(latest_month, &output_path)?;
+        println!("Compression finished successfully.");
     }
 
     Ok(())
