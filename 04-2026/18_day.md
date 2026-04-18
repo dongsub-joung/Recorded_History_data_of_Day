@@ -13,12 +13,14 @@ https://vdo.ninja/?view=hfEhfLZ
 > 7z files
 > SHA256 hash check sum is original file's.
 
-# https://toffeeshare.com/c/FFJyVbyUTo
+## https://toffeeshare.com/c/2R3z625RRG
 
-(raw .mp4 file)
-SHA256 hash of 2026-04-18_05-32-20.mp4:                                                                                 36075e7c747904b8b2b3c7bafb483ef160b97ef27d5fc0fbdb6e60c829d2bab9   
+Origin file SHA256: 36075e7c747904b8b2b3c7bafb483ef160b97ef27d5fc0fbdb6e60c829d2bab9
+Compressing "2026-04-18_05-32-20.mp4" to "2026-04-18_05-32-20.7z" using multi-threading...
+Compression complete!
+7z file SHA256: 50fd63a622949a51ac98663f69e554482175b5204034a19f9476ee8f21b49e3d
 
-# https://toffeeshare.com/c/KQOHuit2TS
+## https://toffeeshare.com/c/KQOHuit2TS
 
 SHA256 hash of .\2026-04-17_05-56-10.7z:                                                                                afbf83cfba04ab7183e7eeb55163cb7ba8e2435261d2ca11e5eadb06392b90eb  
 
