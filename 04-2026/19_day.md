@@ -18,9 +18,12 @@ torrentID: 1f0e23daf0d506f82d10ff0fed1db97ee21083d7
 
 > Origin file SHA256: 21caf7e6b12a73878578fe03fc7d19e33a6285df3dcd77c9b927aa92a8f9
 94aa
+> 
 > Compressing "2026-04-19_14-15-35.mp4" to "2026-04-19_14-15-35.7z" using multi-th
 reading...
+> 
 > Compression complete!
+> 
 > 7z file SHA256: 1fcb99725633b8c7abad978f5e5961b59080f3daeb272f5431174bdc65132c3f
 
 ---
