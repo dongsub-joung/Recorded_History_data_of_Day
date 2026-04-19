@@ -6,7 +6,9 @@ https://vdo.ninja/?view=hfEhfLZ
 
 ## past session
 
-# Torrent
+# Torrent(torrent stalled 19/04/2026)
+
+<img width="1092" height="49" alt="q" src="https://github.com/user-attachments/assets/74c56980-52a2-4f03-8d7d-8f785cb745e2" />
 
 # 2026-04-19_14-15-35.7z
 
