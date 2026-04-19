@@ -29,6 +29,12 @@ reading...
 
 ## 2026-04-18_05-32-20.7z
 
+Origin file SHA256: 36075e7c747904b8b2b3c7bafb483ef160b97ef27d5fc0fbdb6e60c829d2bab9
+Compressing "2026-04-18_05-32-20.mp4" to "2026-04-18_05-32-20.7z" using multi-threading...
+Compression complete!
+7z file SHA256: 50fd63a622949a51ac98663f69e554482175b5204034a19f9476ee8f21b49e3d
+
+
 a3cdbb9069d0276e42f664a8ef9913b5b81e6faa
 
 magnet:?xt=urn:btih:a3cdbb9069d0276e42f664a8ef9913b5b81e6faa&dn=2026-04-18_05-32-20.7z&xl=40375128154&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce
@@ -37,6 +43,8 @@ a3cdbb9069d0276e42f664a8ef9913b5b81e6faa
 
 
 ## 2026-04-17_05-56-10.7z
+
+> SHA256 hash of .\2026-04-17_05-56-10.7z:                                                                                afbf83cfba04ab7183e7eeb55163cb7ba8e2435261d2ca11e5eadb06392b90eb  
 
 c5afa674f7d63383aac38812da3fbe8aede6f072
 
@@ -47,6 +55,9 @@ c5afa674f7d63383aac38812da3fbe8aede6f072
 
 ## 2026-04-16_05-29-31.7z
 
+> SHA256 hash of .\2026-04-16_05-29-31.7z:                                                                       a22c634103592f75a8f85506fdff83b7dee195242bee58ccaedb8eef3f55b038  
+
+
 071a563b439a9ce4332bca3c0a6d53b1beb3fe58
 
 magnet:?xt=urn:btih:071a563b439a9ce4332bca3c0a6d53b1beb3fe58&dn=2026-04-16_05-29-31.7z&xl=37888740097&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce
@@ -55,6 +66,8 @@ magnet:?xt=urn:btih:071a563b439a9ce4332bca3c0a6d53b1beb3fe58&dn=2026-04-16_05-29
 
 
 ## 2026-04-15_04-41-29.7z
+
+> SHA256 hash of .\2026-04-15_04-41-29.7z:                                                                                e0a52bfaa0045639dc9b3c0a79e6a031a5e89f0c3fa4c558af4a8ad12bc8b51e
 
 1dd6a1d96e96ffde9d8673b643fc439f8a01b364
 
