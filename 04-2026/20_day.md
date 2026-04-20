@@ -1,11 +1,3 @@
-# live steam is on vdo ninja
-
-## current live stream
-
-https://vdo.ninja/?view=u6r2mwW
-
-## past session
-
 # Torrent
 
 ## 2026-04-20
@@ -268,4 +260,6 @@ SHA256 hash of .\2026-04-07_01-58-38.7z:                                        
 SHA256 hash of ./2026-04-05_21-44-43.7z:                                                                                241d4927b5474096ab4094b9acf0377411e73053ad92711816939516129e9bde
 
 
-# live steam history in on ngrok
+# live steam history in on ngrok ( expiered )
+# live steam is on vdo ninja ( expiered )
+
